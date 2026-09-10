@@ -6,9 +6,9 @@ Built with **HTML5, JavaScript, Three.js and WebGL**, this project combines inte
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🔬 Physics & Simulation
+###  Physics & Simulation
 
 * Orbital mechanics based on Keplerian motion
 * Orbital precession visualization
@@ -20,7 +20,7 @@ Built with **HTML5, JavaScript, Three.js and WebGL**, this project combines inte
 * Spatial hashing for optimized collision detection
 * Real-time collision statistics
 
-### 🌌 Universe Scale Navigation
+###  Universe Scale Navigation
 
 Explore **24 different scales** ranging from:
 
@@ -42,7 +42,7 @@ That's **65 orders of magnitude** of scale.
 
 ---
 
-## 🎮 Interactive Experience
+##  Interactive Experience
 
 ### Mouse
 
@@ -75,7 +75,7 @@ That's **65 orders of magnitude** of scale.
 
 ---
 
-## 🎨 Visual Experience
+##  Visual Experience
 
 The simulation uses a futuristic space-themed interface featuring:
 
@@ -90,7 +90,7 @@ The simulation uses a futuristic space-themed interface featuring:
 
 ---
 
-## 📊 Performance Monitoring
+##  Performance Monitoring
 
 The built-in performance panel provides real-time information about:
 
@@ -111,7 +111,7 @@ The application also uses optimization techniques such as:
 
 ---
 
-## 🧠 Educational Content
+##  Educational Content
 
 The project is designed not only as a visualization but also as an educational tool.
 
@@ -130,7 +130,7 @@ Each scale provides contextual information and physics-related data to help user
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Technology   | Purpose                        |
 | ------------ | ------------------------------ |
@@ -254,7 +254,6 @@ The simulation can be customized directly from the source code.
 ### Visual Theme
 
 CSS variables control the main visual theme:
-
 ```css
 :root {
     --primary: #00f3ff;
@@ -265,7 +264,6 @@ CSS variables control the main visual theme:
 ```
 
 ### Collision Parameters
-
 Physics behavior can be adjusted through the collision configuration:
 
 ```javascript
@@ -284,7 +282,7 @@ Additional scales and objects can be added through the scale configuration.
 
 ---
 
-## 🔐 Privacy
+##  Privacy
 
 This project is designed to run locally in the browser.
 
@@ -296,7 +294,7 @@ This project is designed to run locally in the browser.
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 Potential future improvements include:
 
@@ -312,7 +310,7 @@ Potential future improvements include:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions and improvements are welcome.
 
@@ -327,27 +325,13 @@ Areas where contributions could be useful:
 * Browser compatibility
 * Documentation
 
-### Contribution Workflow
 
-```bash
-git clone <repository-url>
-
-git switch -c feature-name
-
-# Make your changes
-
-git add .
-
-git commit -m "Add feature"
-
-git push -u origin feature-name
-```
 
 Then open a Pull Request on GitHub.
 
 ---
 
-## 📚 Learning Resources
+##  Learning Resources
 
 Useful technologies and concepts related to this project:
 
@@ -361,13 +345,6 @@ Useful technologies and concepts related to this project:
 * Quantum mechanics
 * Relativity
 
----
-
-## 📄 License
-
-See the [LICENSE](LICENSE) file for license information.
-
----
 
 ## 👨‍💻 Author
 
