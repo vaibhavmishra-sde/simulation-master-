@@ -1,4 +1,4 @@
-# 🌌 Universe Simulation — 65 Orders of Magnitude
+#  Universe Simulation — 65 Orders of Magnitude
 
 An interactive 3D visualization of the universe spanning **65 orders of magnitude**, from the quantum scale to the cosmic scale.
 
